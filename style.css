@@ -1,0 +1,19 @@
+.posts-container {
+  max-width: 600px; /* Задайте желаемую максимальную ширину */
+  margin: 0 auto; /* Центрируйте контейнер по горизонтали */
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.post-container {
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #333;
+}
+
+.user-image {
+  border-radius: 50%; /* Округление иконки пользователя */
+  width: 40px; /* Задайте желаемую ширину */
+  height: 40px; /* Задайте желаемую высоту */
+}
